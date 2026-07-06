@@ -1,4 +1,4 @@
-# Inventory Management Database
+# riwi_dataBase
 This repository contains the PostgreSQL schema designed for an inventory and supply chain management system.
 
 # Overview
